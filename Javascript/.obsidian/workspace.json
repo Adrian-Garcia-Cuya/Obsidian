@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "9ca890deed64457f",
+    "type": "split",
+    "children": [
+      {
+        "id": "56bca70f36f57ac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53c70a8f58447ffa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOM/Leer nodos__.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "602e84c5c5270b72",
+    "type": "split",
+    "children": [
+      {
+        "id": "4752b83e5550a30e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "223253f166ec598e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf5aca7cf0b1f664",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "646f119943f7a1d8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6fa111a8e4634a6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbb16ae1b96dc994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b28e3352590629e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DOM/Leer nodos__.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2c86d1ce0086d9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DOM/Leer nodos__.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "024ec2b3fc43ae1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3d3522f8ab69ac28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DOM/Leer nodos__.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "53c70a8f58447ffa",
+  "lastOpenFiles": [
+    "DOM/Atributos y Propiedades.md",
+    "DOM/Crear y agregar nodos.md",
+    "DOM/Critical Rendering Path (Ruta de acceso de represe.md",
+    "Curso de Asincronismo con JavaScript/6) Fetch & Fetch-POST.md",
+    "Curso de Asincronismo con JavaScript/7) Funciones asíncronas.md",
+    "Curso de Asincronismo con JavaScript/5) Promesas.md",
+    "Untitled.md",
+    "Curso de Asincronismo con JavaScript/4) XMLHTTPRequest.md",
+    "Curso de Asincronismo con JavaScript/1) Asincronismo.md",
+    "Clistaloides.md"
+  ]
+}

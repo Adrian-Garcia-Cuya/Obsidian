@@ -1,0 +1,28 @@
+# Entidades
+- Cajera
+	### Atributos
+	- Nombre
+	- Apellido
+	- Fecha_nacimiento
+	- DNI
+	- Género
+- Cliente
+	### Atributos
+	- Nombres
+	- Apellido
+	- DNI
+- Producto
+	### Atributos
+	- Nombre
+	- Marca
+	- Fecha_producion
+	- Fecha_vencimiento
+	- Descripcion
+- Proveedor
+	### Atributos
+	- Nombre
+	- Ruc
+- Categoría
+	### Atributos
+	- Nombre
+	- Descripcion

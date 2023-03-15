@@ -1,0 +1,1 @@
+El método created es ideal para recuperar información de la base de datos o una API.

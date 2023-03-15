@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "8f7aacc6872d1f11",
+    "type": "split",
+    "children": [
+      {
+        "id": "73ed481ca72312a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dfafdce39b345a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D) Vue router/11) Ciclos de vida de un componente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "021509e7f1f2fd25",
+    "type": "split",
+    "children": [
+      {
+        "id": "7116c64d5d0ca2f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efa50a1ea34860bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a96a48689139cde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f276e572f821f89",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "1876d67d85129a96",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a02ec8426a12fc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64aacc14e5401767",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "D) Vue router/11) Ciclos de vida de un componente.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8eb81bf6af4a422",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "D) Vue router/11) Ciclos de vida de un componente.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8d7d80b6a749e0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45773dd498436e6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "D) Vue router/11) Ciclos de vida de un componente.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "9dfafdce39b345a4",
+  "lastOpenFiles": [
+    "C) Vue CLI/2) Crear componente.md",
+    "B) Componentes/1) Introducción a componentes.md",
+    "B) Componentes/2) Pasar datos a componentes.md",
+    "D) Vue router/6) Rutas anidadas.md",
+    "D) Vue router/5) Rutas con parámetros opcionales.md",
+    "D) Vue router/4) Sintaxis de coincidencia de rutas.md",
+    "D) Vue router/1) Ananlizar el funcionamiento de Vue Router.md",
+    "D) Vue router/2) Rutas con parametros.md",
+    "D) Vue router/10) Diferentes modos history.md",
+    "D) Vue router/9) Recibir parametros de la url dentro de props.md",
+    "D) Vue router/8) Redirecciones.md",
+    "A) Introducción a Vue/2) Eventos y métodos (v-on).md",
+    "A) Introducción a Vue/1) Interpolacion.md",
+    "D) Vue router/11) Ciclos de vida de un componente.md",
+    "A) Introducción a Vue/5) v-if, v-else, v-if-else and v-show.md",
+    "A) Introducción a Vue/7) Propiedades computadas.md",
+    "A) Introducción a Vue/4) v-for.md",
+    "D) Vue router/7) Rutas con nombre.md",
+    "A) Introducción a Vue/6) v-bind.md",
+    "Untitled.md",
+    "B) Componentes/Slots.md",
+    "B) Componentes/3) Emitir eventos.md",
+    "A) Introducción a Vue/3) v-model.md",
+    "A) Introducción a Vue/Conceptos.md",
+    "D) Vue router/3) Ruta 404 Not Found.md",
+    "D) Vue router/Imagenes/not_found.png",
+    "C) Vue CLI/1) Instalar Vue CLI.md",
+    "D) Vue router/Imagenes/instalacion_router.png",
+    "D) Vue router/Imagenes/view.png",
+    "D) Vue router/Imagenes/index_js.png",
+    "D) Vue router/Imagenes"
+  ]
+}
