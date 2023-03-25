@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D) Vue router/11) Ciclos de vida de un componente.md",
+                "file": "A) Introducción a Vue/3) v-model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D) Vue router/11) Ciclos de vida de un componente.md",
+                "file": "A) Introducción a Vue/3) v-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D) Vue router/11) Ciclos de vida de un componente.md",
+                "file": "A) Introducción a Vue/3) v-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D) Vue router/11) Ciclos de vida de un componente.md"
+                "file": "A) Introducción a Vue/3) v-model.md"
               }
             }
           }
@@ -138,16 +138,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
     }
   },
   "active": "9dfafdce39b345a4",
   "lastOpenFiles": [
+    "A) Introducción a Vue/1) Interpolacion.md",
+    "D) Vue router/11) Ciclos de vida de un componente.md",
     "C) Vue CLI/2) Crear componente.md",
     "B) Componentes/1) Introducción a componentes.md",
     "B) Componentes/2) Pasar datos a componentes.md",
@@ -160,8 +162,6 @@
     "D) Vue router/9) Recibir parametros de la url dentro de props.md",
     "D) Vue router/8) Redirecciones.md",
     "A) Introducción a Vue/2) Eventos y métodos (v-on).md",
-    "A) Introducción a Vue/1) Interpolacion.md",
-    "D) Vue router/11) Ciclos de vida de un componente.md",
     "A) Introducción a Vue/5) v-if, v-else, v-if-else and v-show.md",
     "A) Introducción a Vue/7) Propiedades computadas.md",
     "A) Introducción a Vue/4) v-for.md",

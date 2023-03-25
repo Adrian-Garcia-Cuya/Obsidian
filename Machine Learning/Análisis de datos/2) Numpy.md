@@ -13,3 +13,28 @@ Veamos un ejemplo:
 
 ![[vector.png]]
 
+# Dimensiones
+## 1D Array
+
+La primera dimensión es un vector. Solo hay un eje(axis = >0)
+
+![[1d_array.png]]
+
+## 2D array
+
+Cuando se tienen 2 dimensiones se le llama "Matriz".
+
+Cuando se tiene una matriz, el Axis 0, pertenece a las filas y el Axis 1 pertence a las columnas.
+
+![[2d_array.png]]
+
+La función "shape" mostrará cuantas filas y columnas tiene la matriz.
+``Shape(n° filas, n° columas) => Shape(5,5)``
+
+## 3D array
+
+Un array de 3 dimensiones es un cubo.
+En este caso, se tiene el Axis 2 que estaría representando la profundidad.
+
+![[3d_array.png]]
+

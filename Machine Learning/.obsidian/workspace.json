@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d148d62a22a8e1c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análisis de datos/3) Pandas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis de datos/2) Numpy.md",
+                "file": "Análisis de datos/3) Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis de datos/2) Numpy.md",
+                "file": "Análisis de datos/3) Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis de datos/2) Numpy.md"
+                "file": "Análisis de datos/3) Pandas.md"
               }
             }
           }
@@ -147,17 +160,20 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "146380589e1319a5",
+  "active": "d148d62a22a8e1c6",
   "lastOpenFiles": [
+    "Análisis de datos/2) Numpy.md",
+    "Análisis de datos/3) Pandas.md",
+    "Análisis de datos/Imagenes/3d_array.png",
+    "Análisis de datos/Imagenes/2d_array.png",
+    "Análisis de datos/Imagenes/1d_array.png",
     "Análisis de datos/1) Introducción.md",
     "Introducción.md",
-    "Análisis de datos/2) Numpy.md",
     "Exposición.md",
     "Análisis de datos/Imagenes/vector.png",
     "Análisis de datos/Imagenes/vector.png",
     "Análisis de datos/Imagenes",
     "Análisis de datos/Pasted image 20230310140334.png",
-    "Untitled.md",
     "Análisis de datos",
     "Árboles de decisión.canvas",
     "Untitled.canvas",
