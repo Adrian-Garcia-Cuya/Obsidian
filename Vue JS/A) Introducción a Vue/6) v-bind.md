@@ -1,4 +1,4 @@
-Permite modificar los atributos de las etiquetas dinámicamente.
+Permite modificar los atributos de las etiquetas dinámicamente(reactivo).
 
 # Uso
 Colocas ==v-bind==, dos puntos ":" y luego el nombre del atributo, en este caso será una clase. 

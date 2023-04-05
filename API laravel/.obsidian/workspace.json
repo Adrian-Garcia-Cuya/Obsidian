@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "7dd74c0a0499485d",
+    "id": "261fbd3f4f5703f3",
     "type": "split",
     "children": [
       {
-        "id": "6c8411d9d530ef35",
+        "id": "164ddec304f1534f",
         "type": "tabs",
         "children": [
           {
-            "id": "146380589e1319a5",
+            "id": "2e17a3c750b25ffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis de datos/2) Numpy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d148d62a22a8e1c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análisis de datos/3) Pandas.md",
+                "file": "API.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1ff8aa6a155ce10a",
+    "id": "26cfbadb7510d64a",
     "type": "split",
     "children": [
       {
-        "id": "2b176684b7c359e5",
+        "id": "c1db8264ed171e6e",
         "type": "tabs",
         "children": [
           {
-            "id": "63bc7db5294c7918",
+            "id": "737c7f4a5cc907c8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "6fe93a03b57771c5",
+            "id": "197081d753cfa02b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "be3c11aa8aef068c",
+            "id": "683e0cc7d439adb7",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -82,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 200
   },
   "right": {
-    "id": "aa0da8ebb4a98bd9",
+    "id": "a254dbb4710c5d88",
     "type": "split",
     "children": [
       {
-        "id": "986bf7a7937b4ae4",
+        "id": "5803dad4416f0896",
         "type": "tabs",
         "children": [
           {
-            "id": "c69899a8dcd0b0d4",
+            "id": "041899bc790b3954",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis de datos/3) Pandas.md",
+                "file": "API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "2c0399b248c8a48c",
+            "id": "bd1c92be24fb2804",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis de datos/3) Pandas.md",
+                "file": "API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9d1eb3ab73791321",
+            "id": "33b28f9a5541a759",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,17 +120,16 @@
             }
           },
           {
-            "id": "5bda45d1e27d0d92",
+            "id": "7e3e5c8f1235a2ef",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis de datos/3) Pandas.md"
+                "file": "API.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,29 +140,14 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d148d62a22a8e1c6",
+  "active": "2e17a3c750b25ffb",
   "lastOpenFiles": [
-    "Análisis de datos/1) Introducción.md",
-    "Análisis de datos/2) Numpy.md",
-    "Análisis de datos/3) Pandas.md",
-    "Análisis de datos/Imagenes/3d_array.png",
-    "Análisis de datos/Imagenes/2d_array.png",
-    "Análisis de datos/Imagenes/1d_array.png",
-    "Introducción.md",
-    "Exposición.md",
-    "Análisis de datos/Imagenes/vector.png",
-    "Análisis de datos/Imagenes/vector.png",
-    "Análisis de datos/Imagenes",
-    "Análisis de datos/Pasted image 20230310140334.png",
-    "Análisis de datos",
-    "Árboles de decisión.canvas",
-    "Untitled.canvas",
-    "Machine learning.md"
+    "API.md"
   ]
 }

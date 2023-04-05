@@ -32,11 +32,9 @@ const countCows = new Promise(function (resolve, reject) {
 });
 //El "then" se utiliza para asociar las funciones que se invocarán cuando la promesa se resuelva.
 //El método "then" retorna una promesa.
-//Si se devuelve una Promesa ya resuelta, la Promesa devuelta por el método then queda resuelta adoptando el valor de la promesa //anterior.
+//Si se devuelve una Promesa ya resuelta, la Promesa devuelta por el método then queda resuelta adoptando el valor de la promesa anterior.
 //La método then también devolverá un promise, para permitir encadenar varias llamadas.
-//Se utiliza para los casos de éxito. Este método puede recibir dos 
-//argumentos: función callback para casos de éxito y también de fallo. Generalmente se usa solo pasando 
-//el callback de caso de éxito.
+//Se utiliza para los casos de éxito. Este método puede recibir dos argumentos: función callback para casos de éxito y también de fallo. Generalmente se usa solo pasando el callback de caso de éxito.
 countCows.then((result) => {
     console.log(result);
 }).catch((error)=> {
