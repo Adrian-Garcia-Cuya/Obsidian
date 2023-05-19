@@ -11,11 +11,52 @@
             "id": "da905e10805a755f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Introducción.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df8cba351f7d3da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1) HTTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90164e75d67f9418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introducción.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f271de8b8d5f34f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3) ¿Qué son las APIs?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3) ¿Qué son las APIs?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3) ¿Qué son las APIs?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3) ¿Qué son las APIs?.md"
+              }
             }
           }
         ]
@@ -138,6 +183,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da905e10805a755f",
-  "lastOpenFiles": []
+  "active": "f271de8b8d5f34f7",
+  "lastOpenFiles": [
+    "imagenes/endpoint-rest.png",
+    "1) HTTP.md",
+    "3) ¿Qué son las APIs?.md",
+    "imagenes/CRUD.png",
+    "imagenes/api.png",
+    "Introducción.md",
+    "2) Servidores.md",
+    "imagenes/codigos-estado-http.png",
+    "imagenes/ciclo_de_solicitud.png",
+    "imagenes/estructura_ruta.png",
+    "imagenes"
+  ]
 }
