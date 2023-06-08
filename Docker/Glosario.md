@@ -1,0 +1,5 @@
+## Reproducibilidad
+
+## Portabilidad
+
+## Escalabilidad
