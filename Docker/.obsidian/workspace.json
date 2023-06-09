@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e332fcfd0c260b7e",
+            "id": "af2588e38f7d42b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) Contenedores/1) Contenedores - Containers.md",
+                "file": "Bases de docker/2) Imagenes/1) Imagenes - Images.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cdae7b006f930155",
+            "id": "5b2f65709268d57e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) Contenedores/1) Contenedores - Containers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce3affc42d07d564",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2) Imagenes/1) Imagenes - Images.md",
+                "file": "3) Publish & Detached.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "2c4f08e0df0fb333",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2) Imagenes/1) Imagenes - Images.md",
+                "file": "3) Publish & Detached.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2) Imagenes/1) Imagenes - Images.md",
+                "file": "3) Publish & Detached.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2) Imagenes/1) Imagenes - Images.md"
+                "file": "3) Publish & Detached.md"
               }
             }
           }
@@ -171,15 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce3affc42d07d564",
+  "active": "5b2f65709268d57e",
   "lastOpenFiles": [
-    "1) Contenedores/1) Contenedores - Containers.md",
-    "1) Contenedores/2) Containers - Commands.md",
-    "2) Imagenes/1) Imagenes - Images.md",
+    "Bases de docker/2) Imagenes/1) Imagenes - Images.md",
+    "3) Publish & Detached.md",
+    "Bases de docker",
+    "Bases de docker/1) Contenedores/2) Containers - Commands.md",
+    "Bases de docker/1) Contenedores/1) Contenedores - Containers.md",
+    "2) Imagenes/2) Images - Commands.md",
+    "Super tips.md",
+    "Glosario.md",
     "Untitled/Untitled",
-    "2) Imagenes",
-    "1) Contenedores",
-    "Introducción.md",
-    "Glosario.md"
+    "Bases de docker/2) Imagenes",
+    "Bases de docker/1) Contenedores",
+    "Introducción.md"
   ]
 }
