@@ -14,7 +14,7 @@ Route::get('nombre_de_la_ruta', function(){
 ```
 ### Agregar variables a las rutas
 
-Para agregar una variable a la ruta se debe de utilizar los corchetes y luego pasar esa variable como parámeto a la función anónima.
+Para agregar una variable a la ruta se debe de utilizar las llaves y luego pasar esa variable como parámetro a la función anónima.
 ```PHP
 Route::get('cursos/{curso}', function($curso) {
 	return "El nombre del curso es: $curso";
@@ -28,7 +28,7 @@ Route::get('cursos/{curso}/{programacion}', function($curso, $programacion)) {
 ```
 ### Agregar una variable opcional a la ruta
 
-Puedes indicar que el valor por ingresar sea opcional, solo debes agregar un signo de pregunda de cierre al final del nombre de la variable.
+Puedes indicar que el valor por ingresar sea opcional, solo debes agregar un signo de pregunta de cierre al final del nombre de la variable.
 
 Después, debes inicializar la variable al momento de pasarla como parámetro en la función anónima. Esta debe ser nula, ya que, no tendrá ningún valor.
 
@@ -37,7 +37,7 @@ Veamos un ejemplo:
 Route::get('cursos/{curso}/{programacion?}', function($curso, $programacion = null))
 ```
 ### Especificar ruta de controladores
-Para especificar los controladores que se usaran en la aplicación se utiliza la palabra reservada "use" y luego indicamos la ruta en donde se encuetra el archivo.
+Para especificar los controladores que se usaran en la aplicación se utiliza la palabra reservada "use" y luego indicamos la ruta en donde se encuentra el archivo.
 
 Veamos un ejemplo:
 ```PHP
@@ -91,7 +91,7 @@ Route::controller(cursoController) -> group(function {
 	Route::get('cursos/{curso}', 'show');
 });
 ```
-### Nombre a las rutas
+### Nombrar las rutas
 Se puede asignar un nombre a las rutas. Esto debido a que al tener muchas vistas con los mismos enlaces cambiar cada enlace seria tedioso.
 
 Para nombrar a una ruta usamos en método ==name== y como argumento le damos el nombre que tendrá la ruta.
