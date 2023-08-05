@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rutas.md",
+                "file": "Migraciones.md",
                 "mode": "preview",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "create",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rutas.md",
+                "file": "Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rutas.md",
+                "file": "Comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rutas.md"
+                "file": "Comandos.md"
               }
             }
           }
@@ -167,20 +167,20 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e8d231e6d10294f7",
+  "active": "4f69ec604da27159",
   "lastOpenFiles": [
+    "Modelo.md",
+    "Conceptos.md",
+    "Controlador.md",
+    "Rutas.md",
     "Migraciones.md",
     "Seeders.md",
     "Factory.md",
     "Comandos.md",
-    "Controlador.md",
     "Blade.md",
-    "Modelo.md",
-    "Conceptos.md",
     "Query Scopes.md",
     "Mutadores y Accesores (Set & Get).md",
     "Eloquent.md",
-    "Form Request.md",
-    "Rutas.md"
+    "Form Request.md"
   ]
 }

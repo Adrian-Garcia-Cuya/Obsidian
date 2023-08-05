@@ -94,7 +94,7 @@ public function update(Request $request) {
 
 }
 ```
-Al definir el tipo del parámeto, se hace una [[Conceptos#Inyección]] que recupere los datos enviados por un formulario.
+Al definir el tipo del parámetro, se hace una [[Conceptos#Inyección|inyeccion]] que recupere los datos enviados por un formulario.
 
 ## Redirección a una ruta con envío de variable
 Para dirigirse a una ruta se usa el método ==redirect== y luego se usa el método ==route== para especificar la ruta.
