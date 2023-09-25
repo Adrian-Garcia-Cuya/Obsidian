@@ -18,8 +18,5 @@ const array = \[...nodeList\]; //se utiliza el sprint operator.
 
 const nodeList = document.querySelectorAll('div');
 
-array = ==**Array.form**==(nodeList);
+array = ==**Array.from**==(nodeList);
 
-const nodeList = document.querySelectorAll('div');
-
-array = ==**Array.form**==(nodeList);

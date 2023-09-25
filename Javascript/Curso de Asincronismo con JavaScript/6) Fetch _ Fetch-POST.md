@@ -1,6 +1,6 @@
 # Fetch & Fetch-POST
 
-Es una API que permite realizar peticiones HTTP asíncronas, basado en [[5) Promesas]].
+Es una API que permite realizar peticiones HTTP asíncronas, basado en [[5) Promesas | promesas ]].
 
 Una petición básica de fetch es realmente simple de realizar. Eche un vistazo al siguiente código:
 
