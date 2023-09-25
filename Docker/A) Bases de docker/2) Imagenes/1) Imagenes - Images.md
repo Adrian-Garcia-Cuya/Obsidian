@@ -12,4 +12,4 @@ docker image "comando"
 ```
 
 ###### N - images commads equals containers commads
-Tanto para listar (ls) y elimitar (rm) son los mismos comandos. Recuerda también que debes pasar el nombre de la imagen o el "id".
+Tanto para listar (ls) y eliminar (rm) son los mismos comandos. Recuerda también que debes pasar el nombre de la imagen o el "id".

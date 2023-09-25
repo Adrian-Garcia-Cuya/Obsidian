@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af2588e38f7d42b5",
+            "id": "ec01b35fdb29ea40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bases de docker/2) Imagenes/1) Imagenes - Images.md",
+                "file": "C) Docker Compose/1) Docker compose.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5b2f65709268d57e",
+            "id": "981bceae2151c4c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3) Publish & Detached.md",
+                "file": "D) Dockerfile/1) Introducción.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "073e7409e27229fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C) Docker Compose/1) Docker compose.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 287.5
   },
   "right": {
     "id": "2c4f08e0df0fb333",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3) Publish & Detached.md",
+                "file": "C) Docker Compose/1) Docker compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3) Publish & Detached.md",
+                "file": "C) Docker Compose/1) Docker compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3) Publish & Detached.md"
+                "file": "C) Docker Compose/1) Docker compose.md"
+              }
+            }
+          },
+          {
+            "id": "a40b0400e76a0ce3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -159,19 +181,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b2f65709268d57e",
+  "active": "073e7409e27229fb",
   "lastOpenFiles": [
-    "Bases de docker/2) Imagenes/1) Imagenes - Images.md",
-    "3) Publish & Detached.md",
-    "Bases de docker",
-    "Bases de docker/1) Contenedores/2) Containers - Commands.md",
-    "Bases de docker/1) Contenedores/1) Contenedores - Containers.md",
-    "2) Imagenes/2) Images - Commands.md",
+    "D) Dockerfile/2) Primeros pasos.md",
+    "D) Dockerfile/3)BUILDX.md",
     "Super tips.md",
+    "images/Docker-tips-test-conexion.png",
+    "images",
+    "C) Docker Compose/1) Docker compose.md",
+    "B) Volúmenes y Redes/1) Volúmenes.md",
+    "B) Volúmenes y Redes/2) Redes de contenedores.md",
+    "A) Bases de docker/3) Publish & Detached.md",
+    "A) Bases de docker/4) Variables de entorno.md",
+    "E) Multi-Stage Build (Dockerfile)/Introducción.md",
+    "D) Dockerfile/1) Introducción.md",
+    "E) Multi-Stage Build (Dockerfile)/images/dockerfile-multi-stage.png",
+    "E) Multi-Stage Build (Dockerfile)/images/dockerfile-example-multi-stage.png",
+    "E) Multi-Stage Build (Dockerfile)/images",
+    "Introducción.md",
+    "Untitled",
+    "E) Multi-Stage Build (Dockerfile)",
     "Glosario.md",
-    "Untitled/Untitled",
-    "Bases de docker/2) Imagenes",
-    "Bases de docker/1) Contenedores",
-    "Introducción.md"
+    "A) Bases de docker/1) Contenedores/2) Containers - Commands.md",
+    "A) Bases de docker/1) Contenedores/1) Contenedores - Containers.md",
+    "D) Dockerfile",
+    "C) Docker Compose/images/docker-compose_comando.png",
+    "C) Docker Compose/images/docker-compose-variables_entorno.png",
+    "A) Bases de docker/2) Imagenes/1) Imagenes - Images.md",
+    "C) Docker Compose/images/docker-compose-bind-volume.png",
+    "C) Docker Compose/images/docker-volumen-asignar.png",
+    "C) Docker Compose/images/docker_compose-volumen-nomenclatura.png",
+    "C) Docker Compose/images/docker_compose-volumen.png",
+    "C) Docker Compose/images/docker_compose_depends.png",
+    "C) Docker Compose/images",
+    "C) Docker Compose",
+    "B) Volúmenes y Redes",
+    "A) Bases de docker",
+    "2) Imagenes/2) Images - Commands.md",
+    "Untitled/Untitled"
   ]
 }

@@ -34,7 +34,7 @@ Veamos un ejemplo:
 ```PHP
 use Illuminate\Http\Request;
 ```
-De esta manera se obtiene una instancia de la solicitud HTTP y esta será inyectada en el "contenedor de servicios".
+De esta manera se obtiene una instancia de la solicitud HTTP en el ==contenedor de servicios== y este se encargara de realizar la inyección cuando la clase o el método lo requiera.
 
 #### Importante
 Hay casos que puede ser necesario especificar la clase del objeto que se está inyectando como dependencia en el método, pero en el caso de los "Query Scopes" de Laravel, Laravel se encarga de inyectar automáticamente el objeto QueryBuilder en el método, por lo que no es necesario especificar la clase del objeto en la definición del método.

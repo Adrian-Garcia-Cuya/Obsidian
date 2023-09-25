@@ -1,3 +1,5 @@
+Es un protocolo de comunicación que permite la transferencia de información en Internet.
+
 ![[estructura_ruta.png]]
 
 # Ciclo de una solicitud
@@ -19,7 +21,7 @@
 - 301 -> Moved, indica que cierto recurso a sido movido a otra ruta.
 - 307 -> temporary, || a sido movido temporalmente.
 - 308 -> permanent || a sido movido permanentemente.
-- 400 -> Client Error (sucede cuando el cliente envía información erronea)
+- 400 -> Client Error (sucede cuando el cliente envía información errónea)
 - 401 -> Unauthorized, no se tiene permiso para ingresar a cierta página.
 - 404 -> Not found, ocurre cuando se trata de ingresar a una página que no existe.
 - 409 -> Conflict, cuando ocurre un conflicto al momento de enviar información del lado del cliente.
