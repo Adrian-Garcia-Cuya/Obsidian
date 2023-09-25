@@ -72,7 +72,7 @@ public function down() {
 ### Agregar campo a una tabla
 Se debe crear una migración y nombrarla siguiendo una convención. 
 
-Ver la siguiente demostración: [[Comandos#Agregar un campo a una tabla]]
+Ver la siguiente demostración: [[Comandos#Agregar un campo a una tabla|Agregar un campo a una tabla]]
 
 En el método "up" estará la clase ==Schema==, donde se usará el método ==table== para agregar el campo.
 

@@ -1,9 +1,6 @@
 Es un archivo que se utiliza para ejecutar rápidamente todo un grupo de contenedores que ejecuta o permita desarrollar una nueva aplicación.
-
-
-
 # Servicios
-Los servicios son un parte o componentes de una aplicación. Dentro de estos servicios están las configuraciones necesarias para que ese componente cumpla su papel en el funcionamiento de la aplicación. Como por ejemplo, las imágenes que se van a instanciar al momento de levantar los contenedores de los servicios.
+Los servicios son una parte o componentes de una aplicación. Dentro de estos servicios están las configuraciones necesarias para que ese componente cumpla su papel en el funcionamiento de la aplicación. Como por ejemplo, las imágenes que se van a instanciar al momento de levantar los contenedores de los servicios.
 
 Veamos un ejemplo de un archivo docker compose:
 ![[docker_compose.png]]
@@ -20,7 +17,7 @@ Veamos un ejemplo:
 Luego de crear el servicio "db", se creo el "pgAdmin", aquí se indica que pgAdmin depende de que el servicio "db" se cree o monte primero. No importa si en las instrucciones esta debajo del servicio de "pgAdmin", se creara primero "db".
 
 # Crear y designar volumenes
-Para crear un volumen en docker compose se debe colocar "volumes" al mismo nivel que de "services". Luego, dar una tabulación e ingresar el nombre del volumen que deseas crear. En este caso, la imagen superior se tiene que se esta usando el volumen nombrado "postgres-db", por tal motivo ese nombre se usará.
+Para crear un volumen en docker compose se debe colocar "volumes" al mismo nivel que de "services". Luego, dar una tabulación e ingresar el nombre del volumen que deseas crear. En este caso, en la imagen superior se tiene que se esta usando el volumen nombrado "postgres-db", por tal motivo ese nombre se usará.
 
 Veamos un ejemplo:
 

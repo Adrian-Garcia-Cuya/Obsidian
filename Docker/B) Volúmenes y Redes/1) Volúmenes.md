@@ -1,6 +1,6 @@
 Los volúmenes permiten la persistencia de los datos.
 
-Tipos de volúmes:
+Tipos de volumenes:
 - Named Volumes
 Nosotros mismo asignamos el nombre al volúmen.
 

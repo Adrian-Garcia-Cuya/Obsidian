@@ -5,3 +5,5 @@ Los frameworks son utilizados para poder montar servidores, ya que, los framewor
 Este programa es capaz de recibir y responder solicitudes de otros programas a través de protocoles red, como el protocolo HTTP utilizado en la web.
 
 En resumen, un servidor es un programa que está diseñado para manejar solicitudes de clientes y entregarles los recursos o servicios que necesitan.
+
+![[tipos_servicio.png]]
