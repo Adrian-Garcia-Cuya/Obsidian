@@ -1,0 +1,1 @@
+Las capas de transformacion consiste en poder transformar o cambiar la forma en como se muestra la respuesta JSON.

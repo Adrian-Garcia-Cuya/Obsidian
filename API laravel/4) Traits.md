@@ -1,0 +1,1 @@
+Es un mecanismo de reutilizacion de código, mediante el cual, podemos definir un conjunto de métodos que pueden ser utilizados en diversas clases. Son similares a las clases abstractas pero con leves diferencias. Estos traits no pueden tener propiedades ni pueden ser instanciados.

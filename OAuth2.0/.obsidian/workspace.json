@@ -1,86 +1,96 @@
 {
   "main": {
-    "id": "261fbd3f4f5703f3",
+    "id": "ffba05e25a6d6930",
     "type": "split",
     "children": [
       {
-        "id": "164ddec304f1534f",
+        "id": "82c8642cd860336b",
         "type": "tabs",
         "children": [
           {
-            "id": "2e17a3c750b25ffb",
+            "id": "f14a784b28d7a117",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a256f8a8f6a5b69a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) API.md",
+                "file": "GLOSARIO.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e7e1b3e6bd8ccd24",
+            "id": "1e34eeb667bf356c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2) Configurar archivos de ruta.md",
+                "file": "1) IMPORTANCIA DE OAuth y OIDC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b96a15bca487cf5e",
+            "id": "9f850cea2dfdfda9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3) Capa de transformacion.md",
+                "file": "2) OAuth 2.0 y OIDC en acción.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f7dd8f592d4ed11",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "ef01f2383d167ccb",
+            "id": "06f12cb717c475ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Traits.md",
+                "file": "3) JSON WEB TOKEN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82ee4801b41619a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3) JSON WEB TOKEN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "26cfbadb7510d64a",
+    "id": "9335ebe19f8a53c8",
     "type": "split",
     "children": [
       {
-        "id": "c1db8264ed171e6e",
+        "id": "fb9cdeec449ca746",
         "type": "tabs",
         "children": [
           {
-            "id": "737c7f4a5cc907c8",
+            "id": "acae701e97967dd5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -90,7 +100,7 @@
             }
           },
           {
-            "id": "197081d753cfa02b",
+            "id": "afb51bae5245f073",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -105,15 +115,7 @@
             }
           },
           {
-            "id": "683e0cc7d439adb7",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "e064b5e562ef0aed",
+            "id": "16fccf9868a58e07",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -124,23 +126,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "a254dbb4710c5d88",
+    "id": "4e96c76f66137398",
     "type": "split",
     "children": [
       {
-        "id": "5803dad4416f0896",
+        "id": "a9c059762e9a45e4",
         "type": "tabs",
         "children": [
           {
-            "id": "041899bc790b3954",
+            "id": "84c773b01a4c3df2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4) Traits.md",
+                "file": "3) JSON WEB TOKEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,19 +154,19 @@
             }
           },
           {
-            "id": "bd1c92be24fb2804",
+            "id": "79809ed7b3b3b34d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4) Traits.md",
+                "file": "3) JSON WEB TOKEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "33b28f9a5541a759",
+            "id": "c74b0a128aedc7c9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -175,12 +177,12 @@
             }
           },
           {
-            "id": "7e3e5c8f1235a2ef",
+            "id": "ac205131829a1ae0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "4) Traits.md"
+                "file": "3) JSON WEB TOKEN.md"
               }
             }
           }
@@ -201,11 +203,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef01f2383d167ccb",
+  "active": "acae701e97967dd5",
   "lastOpenFiles": [
-    "4) Traits.md",
-    "2) Configurar archivos de ruta.md",
-    "3) Capa de transformacion.md",
-    "1) API.md"
+    "4) Sessiones vs Tokens.md",
+    "Images/Captura desde 2023-10-15 10-23-34.png",
+    "Images/flujo_token.png",
+    "Images/Flujo_sesion.png",
+    "3) JSON WEB TOKEN.md",
+    "2) OAuth 2.0 y OIDC en acción.md",
+    "1) IMPORTANCIA DE OAuth y OIDC.md",
+    "Images/Captura desde 2023-10-14 23-02-39.png",
+    "Images/Captura desde 2023-10-14 22-59-29.png",
+    "Images/Captura desde 2023-10-14 22-33-21.png",
+    "Images/Captura desde 2023-10-14 22-32-26.png",
+    "Images/Captura desde 2023-10-14 22-26-03.png",
+    "Images/payload_ejemplo.png",
+    "Images/Registered_claims.png",
+    "GLOSARIO.md",
+    "Images"
   ]
 }
