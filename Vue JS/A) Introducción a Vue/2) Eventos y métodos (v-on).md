@@ -36,7 +36,7 @@ Para definir métodos en Vue se agrega, luego de "data", ==methods==.
 		},
 		methods: {
 			decrement() {
-				this.counter--;//para hacer referencia a una de las propiedades se debe agregar la palabra "this".
+				this.counter--;
 			},
 			increment() {
 				this.counter++;

@@ -1,9 +1,9 @@
-Evita que haya gran cantidad de lógica de programación en las etiquedas.
+Evita que haya gran cantidad de lógica de programación en las etiquetas.
 
 La principal diferencia entre methods y computed es entonces:  
 **Cuando necesitamos cambiar la data debemos usar `methods`, pero cuando necesitamos cambiar la presentación de los datos existentes usamos `computed`**. 
 
-Por ejemplo, puedes usar la propiedad computada para cambiar la presentacion de un numero, de numero a formato moneda.
+Por ejemplo, puedes usar la propiedad computada para cambiar la presentación de un numero, de numero a formato moneda.
 # Uso
 Hay que agregar un elemento llamado ==computed==, todo lo que contenga serán llamadas propiedades computadas.
 

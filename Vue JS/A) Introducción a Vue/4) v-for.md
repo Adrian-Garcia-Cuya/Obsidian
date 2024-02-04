@@ -16,7 +16,7 @@ En el ejemplo a continuación se esta iterando un array de objetos.
 Para mostrar un dato, usas la interpolación e ingresas el primer valor (pais) y usas la nomenclatura del punto para acceder a la propiedad del objeto (name).
 
 ## Acceder al número de iteración
-Para realizar esto es necesario que ingreses como valor un parentesis al comienzo y dentro de esto agregues el valor que va recorrer los elementos y como segundo valor el ==index==.
+Para realizar esto es necesario que ingreses como valor un paréntesis al comienzo y dentro de esto agregues el valor que va recorrer los elementos y como segundo valor el ==index==.
 
 Veamos un ejemplo:
 
@@ -37,7 +37,7 @@ Para que Vue realice un correcto seguimiento de los elementos, al realizar CRUD,
 	</li>
 </ul>
 ```
-Ahora, las llaves serán cada uno de los nombres de los paises.
+En este caso no hay un identificador unico pero podria ser un 'id'. La llave se podria decir que ayuda a especificar quien es el valor que identificara a los datos que se imprimen en el momento del bucle.
 
 # Otra forma de usar el v-for
 Esto se logra simplemento agregado una etiqueta "template" la cual tendrá el bucle y dentro del el los elementos que quieres mostrar.

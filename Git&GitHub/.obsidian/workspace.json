@@ -1,64 +1,51 @@
 {
   "main": {
-    "id": "d15fe77bab82a5f8",
+    "id": "d20f156ba4616eb3",
     "type": "split",
     "children": [
       {
-        "id": "b5d60aca95429124",
+        "id": "b77653bd7f4c9c36",
         "type": "tabs",
         "children": [
           {
-            "id": "01f4643ba08bb738",
+            "id": "f0fb9289f4994116",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5) Comando.md",
+                "file": "Comandos git.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f9250274bb06c493",
+            "id": "c3c438b025e32570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Explorando el contenido de nuestros archivos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c164c8c94332d738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8) Pip operator.md",
+                "file": "Comandos git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6dbb08b9c6a0e468",
+    "id": "e443b87c3264905b",
     "type": "split",
     "children": [
       {
-        "id": "33228f497c9bc5ae",
+        "id": "b46022f44370dce6",
         "type": "tabs",
         "children": [
           {
-            "id": "caf4350114e01d70",
+            "id": "387d563b1121b783",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +55,7 @@
             }
           },
           {
-            "id": "44b7a6460d64765e",
+            "id": "52eca2c8b3102791",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +70,7 @@
             }
           },
           {
-            "id": "65df8ac2c16f8870",
+            "id": "c5480e95248346fc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +84,20 @@
     "width": 300
   },
   "right": {
-    "id": "06994abe601630b3",
+    "id": "f5fc3d702742e92a",
     "type": "split",
     "children": [
       {
-        "id": "bbee414841bcaa09",
+        "id": "6d5883028ef5a3a6",
         "type": "tabs",
         "children": [
           {
-            "id": "d67a1a2198a18a1c",
+            "id": "a4ea4ead8d27218f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8) Pip operator.md",
+                "file": "Comandos git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +109,19 @@
             }
           },
           {
-            "id": "c570e0e026aa2876",
+            "id": "dead7d51fb2dc2df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Pip operator.md",
+                "file": "Comandos git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "473371dfcc57f1b0",
+            "id": "27490641922c8181",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +132,12 @@
             }
           },
           {
-            "id": "784793156187e784",
+            "id": "e66128876b81ff3c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Pip operator.md"
+                "file": "Comandos git.md"
               }
             }
           }
@@ -171,21 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c164c8c94332d738",
+  "active": "f0fb9289f4994116",
   "lastOpenFiles": [
-    "4) Explorando el contenido de nuestros archivos.md",
-    "8) Pip operator.md",
-    "5) Comando.md",
-    "6) Wildcards.md",
-    "3) Manipulando archivos y directorios.md",
-    "2) Aprendiendo a caminar en la terminal.md",
-    "1) La terminal.md",
-    "Images/Pasted image 20230928141114.png",
-    "Images/Pasted image 20230926143024.png",
-    "Untitled",
-    "2",
-    "Images/Pasted image 20230925143635.png",
-    "Images",
-    "Pasted image 20230925143239.png"
+    "rebase_interactivo.png",
+    "Comandos git.md"
   ]
 }

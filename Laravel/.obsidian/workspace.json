@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pagi",
+                "query": "solicitud",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,19 +192,19 @@
   },
   "active": "c26ffd1e973421c8",
   "lastOpenFiles": [
+    "Super tips.md",
+    "Conceptos.md",
+    "Comandos.md",
+    "Seeders.md",
     "Factory.md",
+    "Query Scopes.md",
     "Modelo.md",
     "Blade.md",
-    "Super tips.md",
-    "Seeders.md",
-    "Comandos.md",
     "Controlador.md",
     "Form Request.md",
     "Migraciones.md",
     "Eloquent.md",
     "Rutas.md",
-    "Conceptos.md",
-    "Query Scopes.md",
     "Mutadores y Accesores (Set & Get).md"
   ]
 }

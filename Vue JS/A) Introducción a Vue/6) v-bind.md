@@ -5,6 +5,9 @@ Colocas ==v-bind==, dos puntos ":" y luego el nombre del atributo, en este caso 
 
 Dentro de la clase se colocará sintaxis básica de js. Lo que se quiere lograr es que se cambie el nombre de la clase dinámicamente.
 
+###### Nota
+v-bin permite modificar el valor que tendran las propiedades. Por ejemplo, tenemos un formulario y el usuario ya le dio clic a 'enviar'. Se puede usar v-bin para desabilitar el boton cuando se cumpla la condicion hasta que termine el proceso de envio y los datos se registren correctamente.
+
 Veamos un ejemplo:
 
 Primero, agregamos las propiedades que usaremos.

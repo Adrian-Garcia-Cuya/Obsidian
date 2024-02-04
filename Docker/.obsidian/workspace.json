@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C) Docker Compose/1) Docker compose.md",
+                "file": "Super tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reque",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,14 +182,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "073e7409e27229fb",
+  "active": "cf34be89a84bfe93",
   "lastOpenFiles": [
+    "Introducción.md",
+    "Glosario.md",
+    "Super tips.md",
+    "C) Docker Compose/1) Docker compose.md",
     "D) Dockerfile/2) Primeros pasos.md",
     "D) Dockerfile/3)BUILDX.md",
-    "Super tips.md",
     "images/Docker-tips-test-conexion.png",
     "images",
-    "C) Docker Compose/1) Docker compose.md",
     "B) Volúmenes y Redes/1) Volúmenes.md",
     "B) Volúmenes y Redes/2) Redes de contenedores.md",
     "A) Bases de docker/3) Publish & Detached.md",
@@ -198,10 +201,8 @@
     "E) Multi-Stage Build (Dockerfile)/images/dockerfile-multi-stage.png",
     "E) Multi-Stage Build (Dockerfile)/images/dockerfile-example-multi-stage.png",
     "E) Multi-Stage Build (Dockerfile)/images",
-    "Introducción.md",
     "Untitled",
     "E) Multi-Stage Build (Dockerfile)",
-    "Glosario.md",
     "A) Bases de docker/1) Contenedores/2) Containers - Commands.md",
     "A) Bases de docker/1) Contenedores/1) Contenedores - Containers.md",
     "D) Dockerfile",

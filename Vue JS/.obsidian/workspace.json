@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66bb041a79e0e4db",
+            "id": "7d953c0db60d6019",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A) Introducción a Vue/7) Propiedades computadas.md",
+                "file": "B) Componentes/2) Pasar datos a componentes.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee67f959fdd2acb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A) Introducción a Vue/7) Propiedades computadas.md",
+                "file": "B) Componentes/2) Pasar datos a componentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A) Introducción a Vue/7) Propiedades computadas.md",
+                "file": "B) Componentes/2) Pasar datos a componentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A) Introducción a Vue/7) Propiedades computadas.md"
+                "file": "B) Componentes/2) Pasar datos a componentes.md"
               }
             }
           }
@@ -146,42 +154,49 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "66bb041a79e0e4db",
+  "active": "efa50a1ea34860bf",
   "lastOpenFiles": [
-    "E) VueX/1) Introducción.md",
-    "B) Componentes/3) Emitir eventos.md",
-    "A) Introducción a Vue/2) Eventos y métodos (v-on).md",
-    "A) Introducción a Vue/7) Propiedades computadas.md",
-    "B) Componentes/2) Pasar datos a componentes.md",
-    "A) Introducción a Vue/5) v-if, v-else, v-if-else and v-show.md",
-    "B) Componentes/Slots.md",
-    "A) Introducción a Vue/3) v-model.md",
     "B) Componentes/1) Introducción a componentes.md",
-    "A) Introducción a Vue/6) v-bind.md",
+    "A) Introducción a Vue/Conceptos.md",
+    "A) Introducción a Vue/7) Propiedades computadas.md",
+    "A) Introducción a Vue/5) v-if, v-else, v-if-else and v-show.md",
+    "A) Introducción a Vue/4) v-for.md",
+    "A) Introducción a Vue/2) Eventos y métodos (v-on).md",
     "A) Introducción a Vue/1) Interpolacion.md",
-    "C) Vue CLI/1) Instalar Vue CLI.md",
-    "D) Vue router/1) Ananlizar el funcionamiento de Vue Router.md",
+    "A) Introducción a Vue/3) v-model.md",
+    "E) VueX/3) Utilización de getters en VueX.md",
     "E) VueX/2) Uso de estados.md",
-    "C) Vue CLI/Imagenes/carpeta_componentes.png",
-    "C) Vue CLI/Imagenes",
-    "C) Vue CLI/2) Crear componente.md",
-    "C) Vue CLI",
-    "E) VueX",
-    "D) Vue router/11) Ciclos de vida de un componente.md",
-    "B) Componentes/C) Vue CLI/2) Crear componente.md",
-    "D) Vue router/6) Rutas anidadas.md",
-    "D) Vue router/5) Rutas con parámetros opcionales.md",
+    "E) VueX/1) Introducción.md",
     "D) Vue router/4) Sintaxis de coincidencia de rutas.md",
-    "D) Vue router/2) Rutas con parametros.md",
+    "D) Vue router/5) Rutas con parámetros opcionales.md",
+    "C) Vue CLI/2) Crear componente.md",
+    "B) Componentes/2) Pasar datos a componentes.md",
+    "E) VueX/7) Módulos en VueX.md",
+    "E) VueX/Imagenes/vuex-importModules.png",
+    "E) VueX/Imagenes/vuex-separetedModules.png",
+    "E) VueX/Imagenes/vuex-helper.png",
+    "E) VueX/Imagenes/vuex-helper.png",
+    "E) VueX/Imagenes/vuex-modulesNamespaced.png",
+    "E) VueX/Imagenes/vuex-modulesNamespaced.png",
+    "E) VueX/Imagenes/vuex-mapState.png",
+    "E) VueX/Imagenes/vuex-modulesUsed.png",
+    "E) VueX/Imagenes/vuex-modules.png",
+    "Imagenes/vuex-actionsAsyncFunctions2.png",
+    "E) VueX/5) Modificaciones de estados con mutaciones VueX II.md",
+    "E) VueX/6) Introducción a las acciones con VueX.md",
+    "E) VueX/4) Modificaciones de estados con mutaciones en VueX.md",
+    "Imagenes",
+    "E) VueX/Imagenes",
+    "D) Vue router/11) Ciclos de vida de un componente.md",
     "D) Vue router/10) Diferentes modos history.md",
     "D) Vue router/9) Recibir parametros de la url dentro de props.md",
-    "D) Vue router/8) Redirecciones.md",
-    "A) Introducción a Vue/4) v-for.md",
     "D) Vue router/7) Rutas con nombre.md",
-    "D) Vue router/Imagenes/not_found.png",
-    "D) Vue router/Imagenes/instalacion_router.png",
-    "D) Vue router/Imagenes/view.png",
-    "D) Vue router/Imagenes/index_js.png",
+    "D) Vue router/2) Rutas con parametros.md",
+    "D) Vue router/1) Ananlizar el funcionamiento de Vue Router.md",
+    "A) Introducción a Vue/6) v-bind.md",
+    "C) Vue CLI/Imagenes",
+    "C) Vue CLI",
+    "E) VueX",
     "D) Vue router/Imagenes"
   ]
 }

@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Traits.md",
+                "file": "2) Configurar archivos de ruta.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4) Traits.md",
+                "file": "2) Configurar archivos de ruta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4) Traits.md",
+                "file": "2) Configurar archivos de ruta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4) Traits.md"
+                "file": "2) Configurar archivos de ruta.md"
               }
             }
           }
@@ -203,9 +203,9 @@
   },
   "active": "ef01f2383d167ccb",
   "lastOpenFiles": [
+    "3) Capa de transformacion.md",
     "4) Traits.md",
     "2) Configurar archivos de ruta.md",
-    "3) Capa de transformacion.md",
     "1) API.md"
   ]
 }
