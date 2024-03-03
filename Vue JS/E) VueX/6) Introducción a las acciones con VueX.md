@@ -50,7 +50,7 @@ context.getters()
 context.state
 ```
 
-Tomando esto en cuenta, en las acciones que definamos, en vez de pasar el 'context', lo que haremiamos es destructurar ese objeto, vuex reconoce que context es el primer parámetro que reciben las acciones por lo que no es necesario especificar que queremos destructurar ese objeto, y quedaría de la siguiente manera:
+Tomando esto en cuenta, en las acciones que definamos, en vez de pasar el 'context', lo que haremos es destructurar ese objeto, vuex reconoce que context es el primer parámetro que reciben las acciones por lo que no es necesario especificar que queremos destructurar ese objeto, y quedaría de la siguiente manera:
 
 ![[vuex-actionsDestruction.png]]
 En este caso, solo se está utilizando el 'commit'.
