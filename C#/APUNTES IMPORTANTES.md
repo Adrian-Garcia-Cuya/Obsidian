@@ -1,0 +1,4 @@
+## Creando objeto anonimos
+Los objetos anonimos son estructuras de datos completas que no requieren una clase para instanciarse.
+
+Para crear un objeto anonimo se debe tomar en cuenta lo siguiente, cualquier variable en __c#__ debe estar definida por un tipo de dato, por lo tanto, cuando se intente agregar un tipo de dato como: int, char, string, etc, mandara un mensaje de error. Esto se debe por que son estructuras de datos simples incorporadas en el lenguaje. Para ello se puede usar un comodin o truco usando la palabra reservada ==var==. Esta palabra hara que el lenguaje infiera el tipo de dato de la variable segun el valor asignado a este, entonces, se puede usar para crear un objeto anonimo y asi hacer que el lenguaje infiera de que es un __tipo de dato complejo__ (asi como un objeto de una clase, array, etc).
