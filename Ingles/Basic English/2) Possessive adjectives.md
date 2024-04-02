@@ -1,4 +1,4 @@
-### What is is?
+### What is?
 Possessive adjectives are words used to show possession - always followed by a singular or plural noun.
 
 **Possessive adjectives** and possessive pronouns can be confusing. Remember that a possessive adjective is located **before the word that it describes**. Whereas, a **possessive pronoun is used in place of a noun.**

@@ -1,4 +1,4 @@
-### What is is?
+### What is?
 The verb **be** is one of the most commonly used verbs in English. So, it is important to understand it in its different forms. The verb **be** will enable you to create simple sentences to communicate.
 
 ### When to use it?
