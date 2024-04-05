@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agilidad y Mindset Agil/Introduccion a la agilidad/Agilidad.md",
+                "file": "Agilidad y Mindset Agil/1) Introduccion a la agilidad/1) Agilidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agilidad y Mindset Agil/Introduccion a la agilidad/Agilidad.md",
+                "file": "Agilidad y Mindset Agil/1) Introduccion a la agilidad/1) Agilidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffbe545a9a062828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agilidad y Mindset Agil/1) Introduccion a la agilidad/2) Contextos tradicionales y agiles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc0b99b69210e6da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agilidad y Mindset Agil/2) Manifiesto agil/1) Manifiesto ágil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a4dc70f07cbd2ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agilidad y Mindset Agil/2) Manifiesto agil/1) Manifiesto ágil.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agilidad y Mindset Agil/Introduccion a la agilidad/Agilidad.md",
+                "file": "Agilidad y Mindset Agil/2) Manifiesto agil/1) Manifiesto ágil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agilidad y Mindset Agil/Introduccion a la agilidad/Agilidad.md",
+                "file": "Agilidad y Mindset Agil/2) Manifiesto agil/1) Manifiesto ágil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agilidad y Mindset Agil/Introduccion a la agilidad/Agilidad.md"
+                "file": "Agilidad y Mindset Agil/2) Manifiesto agil/1) Manifiesto ágil.md"
               }
             }
           }
@@ -159,14 +195,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6dba46e96e14379",
+  "active": "8a4dc70f07cbd2ee",
   "lastOpenFiles": [
-    "Agilidad y Mindset Agil/Introduccion a la agilidad/images/ser y hacer - agil.png",
-    "Agilidad y Mindset Agil/Introduccion a la agilidad/images/agil.png",
-    "Agilidad y Mindset Agil/Introduccion a la agilidad/images",
-    "Agilidad y Mindset Agil/Introduccion a la agilidad",
+    "Agilidad y Mindset Agil/2) Manifiesto agil/images/valores-agiles.png",
+    "Agilidad y Mindset Agil/2) Manifiesto agil/images",
+    "Agilidad y Mindset Agil/2) Manifiesto agil/2) Conclusiones del manifiesto ágil.md",
+    "Agilidad y Mindset Agil/2) Manifiesto agil/1) Manifiesto ágil.md",
+    "Agilidad y Mindset Agil/1) Introduccion a la agilidad/2) Contextos tradicionales y agiles.md",
+    "Agilidad y Mindset Agil/2) Manifiesto agil",
+    "Agilidad y Mindset Agil/1) Introduccion a la agilidad/images/framework-cynefin.png",
+    "Agilidad y Mindset Agil/1) Introduccion a la agilidad/images/contexto-tradicional-agil.png",
+    "Agilidad y Mindset Agil/1) Introduccion a la agilidad/1) Agilidad.md",
+    "Agilidad y Mindset Agil/1) Introduccion a la agilidad/images/ser y hacer - agil.png",
+    "Agilidad y Mindset Agil/1) Introduccion a la agilidad/images/agil.png",
+    "Agilidad y Mindset Agil/1) Introduccion a la agilidad/images",
+    "Agilidad y Mindset Agil/1) Introduccion a la agilidad",
     "Agilidad y Mindset Agil/Introduccion a la agilidad/Untitled 1.md",
-    "Agilidad y Mindset Agil/Introduccion a la agilidad/Agilidad.md",
     "Agilidad y Mindset Agil",
     "Welcome.md"
   ]
