@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "712191c0cfe21d6c",
+        "id": "d60806d1f33b65a8",
         "type": "tabs",
         "children": [
           {
-            "id": "da9236a3affda0a4",
+            "id": "cf586de4e422095d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,55 +20,19 @@
             }
           },
           {
-            "id": "3a9969bc865778a9",
+            "id": "9421a7adfffb6619",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agilidad y Mindset Agil/1) Introduccion a la agilidad/1) Agilidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffbe545a9a062828",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agilidad y Mindset Agil/1) Introduccion a la agilidad/2) Contextos tradicionales y agiles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc0b99b69210e6da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agilidad y Mindset Agil/2) Manifiesto agil/1) Manifiesto ágil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a4dc70f07cbd2ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agilidad y Mindset Agil/2) Manifiesto agil/1) Manifiesto ágil.md",
+                "file": "Agilidad y Mindset Agil/4) MVP en la practica/1) Minimo producto viable.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agilidad y Mindset Agil/2) Manifiesto agil/1) Manifiesto ágil.md",
+                "file": "Agilidad y Mindset Agil/4) MVP en la practica/1) Minimo producto viable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agilidad y Mindset Agil/2) Manifiesto agil/1) Manifiesto ágil.md",
+                "file": "Agilidad y Mindset Agil/4) MVP en la practica/1) Minimo producto viable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agilidad y Mindset Agil/2) Manifiesto agil/1) Manifiesto ágil.md"
+                "file": "Agilidad y Mindset Agil/4) MVP en la practica/1) Minimo producto viable.md"
               }
             }
           }
@@ -195,19 +159,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a4dc70f07cbd2ee",
+  "active": "9421a7adfffb6619",
   "lastOpenFiles": [
-    "Agilidad y Mindset Agil/2) Manifiesto agil/images/valores-agiles.png",
-    "Agilidad y Mindset Agil/2) Manifiesto agil/images",
-    "Agilidad y Mindset Agil/2) Manifiesto agil/2) Conclusiones del manifiesto ágil.md",
-    "Agilidad y Mindset Agil/2) Manifiesto agil/1) Manifiesto ágil.md",
-    "Agilidad y Mindset Agil/1) Introduccion a la agilidad/2) Contextos tradicionales y agiles.md",
-    "Agilidad y Mindset Agil/2) Manifiesto agil",
-    "Agilidad y Mindset Agil/1) Introduccion a la agilidad/images/framework-cynefin.png",
-    "Agilidad y Mindset Agil/1) Introduccion a la agilidad/images/contexto-tradicional-agil.png",
+    "Agilidad y Mindset Agil/4) MVP en la practica/images/MVP-ejemplo.png",
+    "Agilidad y Mindset Agil/4) MVP en la practica/images/MVP-practica.png",
+    "Agilidad y Mindset Agil/4) MVP en la practica/images",
     "Agilidad y Mindset Agil/1) Introduccion a la agilidad/1) Agilidad.md",
-    "Agilidad y Mindset Agil/1) Introduccion a la agilidad/images/ser y hacer - agil.png",
-    "Agilidad y Mindset Agil/1) Introduccion a la agilidad/images/agil.png",
+    "Agilidad y Mindset Agil/4) MVP en la practica/1) Minimo producto viable.md",
+    "Agilidad y Mindset Agil/1) Introduccion a la agilidad/2) Contextos tradicionales y agiles.md",
+    "Agilidad y Mindset Agil/3) Principios Agiles/1) Principios agiles.md",
+    "Agilidad y Mindset Agil/4) MVP en la practica",
+    "Agilidad y Mindset Agil/2) Manifiesto agil/1) Manifiesto ágil.md",
+    "Agilidad y Mindset Agil/3) Principios Agiles/images/principio-agil-12.png",
+    "Agilidad y Mindset Agil/3) Principios Agiles/images/principio-agil-11.png",
+    "Agilidad y Mindset Agil/3) Principios Agiles/images/principio-agil-10.png",
+    "Agilidad y Mindset Agil/3) Principios Agiles/images/principio-agil-9.png",
+    "Agilidad y Mindset Agil/3) Principios Agiles/images/principio-agil-8.png",
+    "Agilidad y Mindset Agil/3) Principios Agiles/images/principio-agil-7.png",
+    "Agilidad y Mindset Agil/3) Principios Agiles/images/principio-agil-6.png",
+    "Agilidad y Mindset Agil/3) Principios Agiles/images/principio-agil-5.png",
+    "Agilidad y Mindset Agil/3) Principios Agiles/images/principio-agil-4.png",
+    "Agilidad y Mindset Agil/3) Principios Agiles/images",
+    "Agilidad y Mindset Agil/3) Principios Agiles",
+    "Agilidad y Mindset Agil/2) Manifiesto agil/2) Conclusiones del manifiesto ágil.md",
+    "Agilidad y Mindset Agil/2) Manifiesto agil/images",
+    "Agilidad y Mindset Agil/2) Manifiesto agil",
     "Agilidad y Mindset Agil/1) Introduccion a la agilidad/images",
     "Agilidad y Mindset Agil/1) Introduccion a la agilidad",
     "Agilidad y Mindset Agil/Introduccion a la agilidad/Untitled 1.md",

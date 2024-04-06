@@ -8,75 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f14a784b28d7a117",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a256f8a8f6a5b69a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GLOSARIO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e34eeb667bf356c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1) IMPORTANCIA DE OAuth y OIDC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f850cea2dfdfda9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2) OAuth 2.0 y OIDC en acción.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06f12cb717c475ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) JSON WEB TOKEN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "82ee4801b41619a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "3) JSON WEB TOKEN.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,15 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acae701e97967dd5",
+  "active": "82ee4801b41619a1",
   "lastOpenFiles": [
+    "2) OAuth 2.0 y OIDC en acción.md",
+    "1) IMPORTANCIA DE OAuth y OIDC.md",
+    "GLOSARIO.md",
+    "3) JSON WEB TOKEN.md",
     "4) Sessiones vs Tokens.md",
     "Images/Captura desde 2023-10-15 10-23-34.png",
     "Images/flujo_token.png",
     "Images/Flujo_sesion.png",
-    "3) JSON WEB TOKEN.md",
-    "2) OAuth 2.0 y OIDC en acción.md",
-    "1) IMPORTANCIA DE OAuth y OIDC.md",
     "Images/Captura desde 2023-10-14 23-02-39.png",
     "Images/Captura desde 2023-10-14 22-59-29.png",
     "Images/Captura desde 2023-10-14 22-33-21.png",
@@ -219,7 +163,6 @@
     "Images/Captura desde 2023-10-14 22-26-03.png",
     "Images/payload_ejemplo.png",
     "Images/Registered_claims.png",
-    "GLOSARIO.md",
     "Images"
   ]
 }
