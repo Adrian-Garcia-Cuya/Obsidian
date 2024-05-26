@@ -14,7 +14,7 @@ Dentro de router estará un archivo "index.js", donde se indicará que informaci
 
 ![[index_js.png]]
 
-En la carpeta View irán los componentes que funcionen como vista.
+En la carpeta View irán los componentes que funcionan como vista.
 ![[view.png]]
 
 # Conceptos básicos de Vue Router

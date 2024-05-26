@@ -1,5 +1,5 @@
 # ¿Qué es?
-Una API (Application Programming Interfaces) es una interfaz que se usa para comunicar distintos programas.
+Una API (Application Programming Interfaces) es una interfaz que se usa para comunicar distintos programas (cliente). Estas reciben peticiones y envian respuestas.
 
 # Conceptos
 Clientes -> programas que realizan peticiones.
@@ -14,14 +14,15 @@ Pueden acceder cualquier tipo de clientes.
 ## Privadas
 Se crean para uso interno. Se utiliza para mejorar la comunicación dentro de una organización.
 
-# REST
-Rest es una arquitectura de desarrollo web que te da una serie de reglas sobre como debes crear una API.
+# REST (Representational State Transfer)
+Rest (Transferencia de Estado Representacional) es una arquitectura de desarrollo web que te da una serie de reglas/guias sobre como debes crear una API.
 
-1) **Cliente servidor**: Debe haber una separación de responsablilidad. El cliente se encarga de la interacción con el usuario y el servidor de gestionar y procesar los datos.
+1) **Cliente servidor**: Debe haber una separación de responsablilidad entre la API y los clientes. El cliente se encarga de la interacción con el usuario y el servidor de gestionar y procesar los datos.
 2) **Es un protocolo sin estado**, es decir no se guarda información en el servidor, como: sesiones de usuario por ejemplo.
 3) **Cacheable**: Las respuestas de la API deben poder ser almacenadas en cache por el cliente.
 4) **Interfaz uniforme**: Indica que el servidor transfiere información en formato estándar. Por ejemplo, el servidor puede almacenar los datos como texto, pero enviarlos en formato de representación HTML.
 5) **Sistema de capas**: el servidor puede disponer de varias capas para su implementación. Esto ayuda a mejorar la escalabilidad, el rendimiento y la seguridad.
+6) **Codigo bajo demanda:** 
 
 Se considera una API resful si el protocolo por el cual se comunica el cliente y la API es a través del protocolo "HTTP".
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso de Asincronismo con JavaScript/6) Fetch _ Fetch-POST.md",
+                "file": "Curso de Asincronismo con JavaScript/7) Funciones asíncronas.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso de Asincronismo con JavaScript/6) Fetch _ Fetch-POST.md",
+                "file": "Curso de Asincronismo con JavaScript/7) Funciones asíncronas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso de Asincronismo con JavaScript/6) Fetch _ Fetch-POST.md",
+                "file": "Curso de Asincronismo con JavaScript/7) Funciones asíncronas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso de Asincronismo con JavaScript/6) Fetch _ Fetch-POST.md"
+                "file": "Curso de Asincronismo con JavaScript/7) Funciones asíncronas.md"
               }
             }
           }
@@ -170,13 +170,13 @@
   "active": "e02ff90d7393caf5",
   "lastOpenFiles": [
     "Curso de Asincronismo con JavaScript/5) Promesas.md",
-    "Curso de Asincronismo con JavaScript/4) XMLHTTPRequest.md",
     "Curso de Asincronismo con JavaScript/3) ¿Qué son los Callbacks.md",
+    "Curso de Asincronismo con JavaScript/6) Fetch _ Fetch-POST.md",
+    "Curso de Asincronismo con JavaScript/4) XMLHTTPRequest.md",
     "Curso de Asincronismo con JavaScript/2) Event Loop.md",
     "Curso de Asincronismo con JavaScript/1) Asincronismo.md",
     "DOM/Crear y agregar nodos.md",
     "DOM/Eliminar nodos.md",
-    "Curso de Asincronismo con JavaScript/6) Fetch _ Fetch-POST.md",
     "oaidflkjalkf.md",
     "DOM/NodeLists vs Array__.md",
     "Curso de Asincronismo con JavaScript/7) Funciones asíncronas.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3) JSON WEB TOKEN.md",
+                "file": "GLOSARIO.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3) JSON WEB TOKEN.md",
+                "file": "GLOSARIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3) JSON WEB TOKEN.md",
+                "file": "GLOSARIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3) JSON WEB TOKEN.md"
+                "file": "GLOSARIO.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "82ee4801b41619a1",
   "lastOpenFiles": [
+    "3) JSON WEB TOKEN.md",
     "2) OAuth 2.0 y OIDC en acción.md",
     "1) IMPORTANCIA DE OAuth y OIDC.md",
     "GLOSARIO.md",
-    "3) JSON WEB TOKEN.md",
     "4) Sessiones vs Tokens.md",
     "Images/Captura desde 2023-10-15 10-23-34.png",
     "Images/flujo_token.png",

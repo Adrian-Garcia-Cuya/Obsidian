@@ -32,3 +32,8 @@ Importante:
 En un entorno ágil todos los miembros del equipo son responsables del proyecto. La idea fundamental es crear equipos auto organizados para que proyecto tenga éxito, donde el líder cumple la función de facilitador que distribuye las tareas y comparte la responsabilidad.
 
 ![[principio-agil-12.png]]
+
+
+![[ejemplo-de-principios-valor1.png]]
+![[ejemplo-de-principios-valor2.png]]![[ejemplo-de-principios-valor3.png]]
+![[ejemplo-de-principios-valor4.png]]

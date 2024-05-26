@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d953c0db60d6019",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B) Componentes/2) Pasar datos a componentes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "049c66262e4e3516",
             "type": "leaf",
             "state": {
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "moun",
+                "query": "v-mod",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B) Componentes/2) Pasar datos a componentes.md",
+                "file": "A) Introducción a Vue/3) v-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B) Componentes/2) Pasar datos a componentes.md",
+                "file": "A) Introducción a Vue/3) v-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B) Componentes/2) Pasar datos a componentes.md"
+                "file": "A) Introducción a Vue/3) v-model.md"
               }
             }
           }
@@ -166,32 +155,35 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "7d953c0db60d6019",
+  "active": "049c66262e4e3516",
   "lastOpenFiles": [
-    "A) Introducción a Vue/3) v-model.md",
+    "A) Introducción a Vue/5) v-if, v-else, v-if-else and v-show.md",
+    "A) Introducción a Vue/6) v-bind.md",
+    "B) Componentes/3) Emitir eventos.md",
     "B) Componentes/1) Introducción a componentes.md",
     "D) Vue router/11) Ciclos de vida de un componente.md",
-    "A) Introducción a Vue/7) Propiedades computadas.md",
-    "A) Introducción a Vue/6) v-bind.md",
-    "D) Vue router/2) Rutas con parametros.md",
+    "C) Vue CLI/2) Crear componente.md",
+    "A) Introducción a Vue/3) v-model.md",
     "A) Introducción a Vue/2) Eventos y métodos (v-on).md",
     "A) Introducción a Vue/1) Interpolacion.md",
     "B) Componentes/2) Pasar datos a componentes.md",
-    "Conceptos generales.md",
-    "C) Vue CLI/2) Crear componente.md",
-    "A) Introducción a Vue/4) v-for.md",
-    "A) Introducción a Vue/5) v-if, v-else, v-if-else and v-show.md",
-    "E) VueX/7) Módulos en VueX.md",
-    "E) VueX/6) Introducción a las acciones con VueX.md",
-    "F) Inertia",
+    "D) Vue router/2) Rutas con parametros.md",
+    "D) Vue router/6) Rutas anidadas.md",
+    "B) Componentes/Slots.md",
+    "D) Vue router/4) Sintaxis de coincidencia de rutas.md",
+    "D) Vue router/5) Rutas con parámetros opcionales.md",
     "E) VueX/4) Modificaciones de estados con mutaciones en VueX.md",
-    "E) VueX/5) Modificaciones de estados con mutaciones VueX II.md",
-    "A) Introducción a Vue/Conceptos.md",
     "E) VueX/3) Utilización de getters en VueX.md",
     "E) VueX/2) Uso de estados.md",
     "E) VueX/1) Introducción.md",
-    "D) Vue router/4) Sintaxis de coincidencia de rutas.md",
-    "D) Vue router/5) Rutas con parámetros opcionales.md",
+    "C) Vue CLI/1) Instalar Vue CLI.md",
+    "D) Vue router/10) Diferentes modos history.md",
+    "D) Vue router/9) Recibir parametros de la url dentro de props.md",
+    "D) Vue router/8) Redirecciones.md",
+    "D) Vue router/7) Rutas con nombre.md",
+    "D) Vue router/3) Ruta 404 Not Found.md",
+    "D) Vue router/1) Ananlizar el funcionamiento de Vue Router.md",
+    "F) Inertia",
     "E) VueX/Imagenes/vuex-importModules.png",
     "E) VueX/Imagenes/vuex-separetedModules.png",
     "E) VueX/Imagenes/vuex-helper.png",
@@ -204,9 +196,6 @@
     "E) VueX/Imagenes 1/vuex-actionsAsyncFunctions2.png",
     "E) VueX/Imagenes 1",
     "E) VueX/Imagenes",
-    "D) Vue router/10) Diferentes modos history.md",
-    "D) Vue router/9) Recibir parametros de la url dentro de props.md",
-    "D) Vue router/7) Rutas con nombre.md",
     "C) Vue CLI/Imagenes",
     "C) Vue CLI",
     "E) VueX",

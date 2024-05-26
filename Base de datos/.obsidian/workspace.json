@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7) Normalización.md",
+                "file": "1) ¿Qué son las bases de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7) Normalización.md",
+                "file": "1) ¿Qué son las bases de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7) Normalización.md",
+                "file": "1) ¿Qué son las bases de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7) Normalización.md"
+                "file": "1) ¿Qué son las bases de datos.md"
+              }
+            }
+          },
+          {
+            "id": "7bdbd726c72dc07c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -168,9 +180,10 @@
   },
   "active": "9909fec528eb9826",
   "lastOpenFiles": [
-    "6) Diagrama físico.md",
-    "7) Normalización.md",
     "2) Entidades y Atributos.md",
+    "1) ¿Qué son las bases de datos.md",
+    "7) Normalización.md",
+    "6) Diagrama físico.md",
     "5) Diagrama ER.md",
     "Imagenes/simbolos_ER.png",
     "3) Relaciones.md",
@@ -186,7 +199,6 @@
     "Imagenes/Pasted image 20230311083722.png",
     "Supermercado.md",
     "Platziblog.md",
-    "1) ¿Qué son las bases de datos.md",
     "Imagenes"
   ]
 }

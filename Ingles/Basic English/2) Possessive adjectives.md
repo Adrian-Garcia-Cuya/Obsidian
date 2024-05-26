@@ -10,7 +10,7 @@ We use it when we want to show property, a sense of belonging or ownership to a 
 - I -> My
 - You -> Your
 - He -> His
-- Her -> She
+- She -> Her
 - It -> Its
 - We -> Our
 - You -> Your
@@ -119,10 +119,10 @@ Like all adjectives in English, they are always located before the noun they ref
 
 **Possessive adjective** + noun
 
-| **Example:** | My house  |
-| ------------ | --------- |
-|              | Your book |
-|              | Their car |
+| **Example:** | My house   |
+| ------------ | ---------- |
+|              | Your book  |
+|              | Their cars |
 #### Possessive adjective agreement
 The possessive adjective needs to agree with the possessor and not with the thing, animal or person that is possessed.
 

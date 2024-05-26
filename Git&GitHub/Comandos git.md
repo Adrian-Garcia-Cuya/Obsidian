@@ -1,5 +1,6 @@
 ```Git
-git checkout -- . // obtiene la informacion antes de la modificacion siempre y cuando no este en el stage.
+git checkout -- . // obtiene la informacion antes de la modificacion, siempre y cuando no este en el stage.
+// Importante: al ejecutar este comando, se borrara todas las modificaciones y regresara al ultimo commit basicamente. Tener cuidado.
 ```
 
 ```Git
@@ -36,7 +37,15 @@ git tag //lista los tag creados
 ```
 
 ```Git
-git tag 'nombre de tag' //permite agregar un mensaje al commit actual
+git tag 'nombre de tag' //permite agregar un mensaje al commit actua
+```
+
+```Git
+git tag 'nombre de tag' -m "mensaje del tag" //permite agregar un mensaje al tag
+```
+
+```Git
+git tag -d "nombre del tag" //elimina un tag
 ```
 
 ```Git
@@ -46,14 +55,6 @@ git tag -a v1.0.0 -m "Version 1.0.0 lista" //'-a' permite agregar una etiqueta a
 ```Git
 git tag -a 'numero de version' 'numero de hash' //agregar el tag en el commit con el hash especificado
 git tag -a v0.1.0 7587385
-```
-
-```Git
-git tag 'nombre de tag' -m "mensaje del tag" //permite agregar un mensaje al tag
-```
-
-```Git
-git tag -d "nombre del tag" //elimina un tag
 ```
 
 ```Git
@@ -69,7 +70,7 @@ Ejemplo: **v1.0.0**
 - **.0** -> se realiza el cambio cuando se solucionaron errores.
 
 ###### Nota
-- Usa `-a` para crear etiquetas anotadas con información adicional, apropiadas para versiones importantes.
+- Usa `-a` para crear etiquetas anotadas con información adicional, apropiado para versiones importantes.
 - No uses `-a` para crear etiquetas ligeras si solo necesitas un marcador simple para un commit específico.
 
 # reset
@@ -90,7 +91,7 @@ git reset --soft HEAD^ //Revierte un commit
 ```
 
 ```Git
-git reset --reflog //permite ver el historial de comandos git utilizados
+git reflog //permite ver el historial de comandos git utilizados
 //cada accion realizada tiene un hash y podemos revertir las acciones realizadas usando 'reset --hard'
 ```
 
@@ -170,3 +171,6 @@ Al usar el **edit** te retorna el a tu terminal pero puede realizar las correcci
 ```Git
 git rebase --continue
 ```
+
+#### Importante
+La principal diferencia entre usar `git reset` directamente y usar `git rebase -i` es que `git rebase -i` te permite modificar cualquier commit en la historia sin afectar los commits posteriores. Esto es útil cuando quieres hacer cambios en varios commits anteriores, cambiar el orden de los commits, o incluso dividir un commit en varios, mientras mantienes intactos los commits más recientes.

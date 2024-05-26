@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) API.md",
+                "file": "4) Traits.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,31 +25,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2) Configurar archivos de ruta.md",
+                "file": "1) API.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b96a15bca487cf5e",
+            "id": "e32c93067b775a17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3) Capa de transformacion.md",
+                "file": "JSON-API Spec.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f7dd8f592d4ed11",
+            "id": "bebab7bd8078e035",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Query Parameters.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -59,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2) Configurar archivos de ruta.md",
+                "file": "JSON-API Spec.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2) Configurar archivos de ruta.md",
+                "file": "JSON-API Spec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2) Configurar archivos de ruta.md",
+                "file": "JSON-API Spec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2) Configurar archivos de ruta.md"
+                "file": "JSON-API Spec.md"
               }
             }
           }
@@ -188,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,9 +204,23 @@
   },
   "active": "ef01f2383d167ccb",
   "lastOpenFiles": [
-    "3) Capa de transformacion.md",
-    "4) Traits.md",
+    "Query Parameters.md",
+    "1) API.md",
     "2) Configurar archivos de ruta.md",
-    "1) API.md"
+    "JSON-API Spec.md",
+    "Images/Pasted image 20240413221015.png",
+    "Images/Pasted image 20240413220835.png",
+    "Images/Pasted image 20240413220814.png",
+    "Images/Pasted image 20240413220713.png",
+    "Images/Pasted image 20240413220554.png",
+    "Images/Pasted image 20240413220424.png",
+    "Images/Pasted image 20240413220250.png",
+    "Sin título",
+    "Images/Pasted image 20240413220101.png",
+    "Images/Pasted image 20240413215753.png",
+    "Images/Pasted image 20240413215522.png",
+    "Images",
+    "3) Capa de transformacion.md",
+    "4) Traits.md"
   ]
 }

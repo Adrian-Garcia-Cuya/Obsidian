@@ -1,5 +1,5 @@
 # ¿Qué es?
-El Manifiesto Ágil es un documento redactado en 2001 por 17 expertos en programación que supuso un cambio radical en la forma de desarrollar 'software'. Frente a los modelos tradicionales, excesivamente rígidos y alejados de las necesidades de los clientes, estos gurús propusieron cuatro valores que inspiran las diferentes metodologías ágiles que han surgido desde entonces.
+El Manifiesto Ágil es un documento redactado en 2001 por 17 expertos en programación que supuso un cambio radical en la forma de desarrollar 'software'. Frente a los modelos tradicionales, excesivamente rígidos y alejados de las necesidades de los clientes, estos gurús propusieron cuatro valores que inspiran a las diferentes metodologías ágiles que han surgido desde entonces.
 
 Resaltar que se basa en 4 valores y 12 principios ágiles.
 

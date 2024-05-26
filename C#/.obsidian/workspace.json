@@ -20,17 +20,55 @@
             }
           },
           {
-            "id": "1affd486feee4c1f",
+            "id": "a3f3efd9551d6cd2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "APUNTES IMPORTANTES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9679c0f6665e58d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75fd0d3ad208678d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Herencia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bb8edf8cf5c00aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excepciones.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -59,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APUNTES IMPORTANTES.md",
+                "file": "Herencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APUNTES IMPORTANTES.md",
+                "file": "Herencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APUNTES IMPORTANTES.md"
+                "file": "Herencia.md"
               }
             }
           }
@@ -157,8 +195,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1affd486feee4c1f",
+  "active": "75fd0d3ad208678d",
   "lastOpenFiles": [
-    "APUNTES IMPORTANTES.md"
+    "Arrays.md",
+    "Excepciones.md",
+    "Gestor de tareas.md",
+    "Herencia.md",
+    "images/Pasted image 20240524082512.png",
+    "images/herencia.png",
+    "APUNTES IMPORTANTES.md",
+    "images/task-management2.png",
+    "images/task-management1.png",
+    "images/project-verify-overflow.png",
+    "images/project-avanced.png",
+    "images/project-configurate.png",
+    "images/project-properties.png",
+    "images/project-properties.png",
+    "images/Pasted image 20240514090855.png",
+    "images"
   ]
 }

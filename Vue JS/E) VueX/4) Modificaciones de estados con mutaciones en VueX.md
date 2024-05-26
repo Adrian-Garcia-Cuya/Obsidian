@@ -1,5 +1,5 @@
 # Que es?
-Los 'mutations' son métodos dentro de la tienda que van a permitir que podamos modificarr los valores de los estados.
+Los 'mutations' son métodos dentro de la tienda que van a permitir que podamos modificar los valores de los estados.
 
 Vamos como definirlos:
 ![[vuex-mutations.png]]

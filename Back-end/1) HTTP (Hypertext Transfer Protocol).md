@@ -1,7 +1,18 @@
-Es un protocolo de comunicación que permite la transferencia de información en Internet.
+Es un protocolo de comunicación que permite la transferencia de información en Internet. Permite cargar paginas web mediante enlaces de Hipertexto (enlaces que permiten navegar a paginas).
 
 ![[estructura_ruta.png]]
+# Que es un protocolo?
+Los protocolos son un conjunto de reglas/normas que especifican como deben comunicarse dos o mas sistemas.
+# Que es una solicitud HTTP?
+Es una forma en como las plataforma solicitan la informacion que necesitan para cargar la pagina web.
 
+Cada solicitud HTTP realizada a través de Internet lleva consigo una serie de datos codificados que contienen diferentes tipos de información. Una solicitud HTTP típica contiene:
+
+- Tipo de versión HTTP
+- Una URL 
+- Un método HTTP 
+- Encabezados de solicitud HTTP 
+- Cuerpo HTTP (opcional).
 # Ciclo de una solicitud
 1. El usuarios a través del navegador realiza una solicitud (request) con un dominio.
 2. El sistema DNS se encarga de encontrar en que servidor se encuentra cierto dominio y envía el request.

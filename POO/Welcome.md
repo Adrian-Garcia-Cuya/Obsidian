@@ -1,0 +1,2 @@
+# Metodos estaticos
+Los métodos estáticos están intrínsecamente vinculados a las clases en las que están definidos, lo que significa que son accesibles sin necesidad de crear una instancia de la clase. En contraste, los métodos no estáticos están asociados con instancias específicas de la clase y solo se pueden llamar a través de esas instancias.
