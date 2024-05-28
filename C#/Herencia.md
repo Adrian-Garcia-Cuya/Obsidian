@@ -39,4 +39,94 @@ En este ejemplo muestra la definicion de constructor en la clase *Mamifero*. Lue
 
 Se crea el constructor de la clase hija porque es necesario que esto suceda al crear una instancia de la clase. Para que de esta forma pueda inicializarce la propiedad, en este caso, *nombreSerVivo*.
 
-# Principio de sustitucion
+# # Principio de sustitucion liskov
+
+## Que es?
+El principio de sustitución de Liskov es uno de los cinco principios SOLID. Este principio establece que las instancias de una clase (padre) deben poder ser reemplazadas 
+por instancias de sus subclases sin alterar el comportamiento del programa. En otras palabras, una clase hija debe ser capaz de implementar todos los métodos de 
+la clase padre sin cambiar su comportamiento.
+
+## Que utilidad tiene?
+Aplicar este principio ayuda a garantizar una correcta aplicación de la herencia, evitando que el programa se rompa o se altere debido a una mala implementación. 
+Es fundamental para mantener la coherencia y la integridad del diseño de software orientado a objetos.
+
+Veamos un ejemplo:
+
+```C#
+public class Archivos
+{
+	public string Nombre {get; set}
+	
+	public void Escribir()
+	{/*Escribo*/}
+	
+	public void Leer()
+	{/*Leo*/}
+}
+
+public class ArchivosSoloLectura : Archivos
+{
+	public new void Escribir()
+	{
+		throw new Exception();
+	}
+}
+
+public class ArchivosOcultos : Archivos
+{
+	public new void Leer()
+	{
+		throw new Exception();
+	}
+}
+```
+
+Se tiene la clase padre *Archivos*, la cual, cuenta con 2 metodos, *Escribir* y *Leer*. Luego se ven 2 clases *ArchivosSoloLectura* y *ArchivosOcultos* que heredan de *Archivos*. Como se puede observar cada una tiene un metodo generando un error, esto es debido a que conceptualmente no es posible *Escribir* en un *ArchivoSoloLecutra* y por tal razon se oculta el metodo de la clase padre y se usa el metodo de la clase hija para lanzar un mensaje de error. Esto mismo se aplicaria para *ArchivosOcultos*.
+
+Claramente es una practica inadecuada que no sigue este princio.
+
+Una forma de agregar es separando el codigo e implementado las interfaces correspondientes para cada situacion.
+
+Veamos:
+
+```C#
+public interface Ileeible
+{
+	public void Leer();
+}
+public interface IEscribible
+{
+	public void Escribir();
+}
+public abstract class ArchivoBase
+{
+	public string? Nombre { get; set; }
+}
+public class Archivo3 : ArchivoBase, IEscribible, Ileeible
+{
+	public void Escribir()
+	{
+		//Escribo
+	}
+
+	public void Leer()
+	{
+		//leo
+	}
+}
+public class ArchivosSoloLectura3 : ArchivoBase, Ileeible
+{
+	public void Leer()
+	{
+		//leo
+	}
+}
+
+public class ArchivosOcultos : ArchivoBase, IEscribible
+{
+	public void Escribir()
+	{
+		//escribo
+	}
+}
+```
