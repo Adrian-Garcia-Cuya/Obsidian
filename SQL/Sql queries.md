@@ -86,6 +86,25 @@ select * from empleados
 where not puesto = 'Gerente' and not puesto = 'Desarrollador'
 ```
 
+El operador *Union* permite combinar un grupo de resultados de 2 o mas consultas:
+```SQL
+select contacto, ciudad, pais from clientes
+union
+select contacto, ciudad, pais from suplidores;
+
+El resultado que muestra son valores no duplicados. Para ver todos los datos se debe agregar "all" -> "union all"
+
+//condiciones:
+//- Ambas consultas deben tener el mismo numero de columnas
+//- Todas las columnas de ambas consultas deben coincidir con el tipo de dato cada una.
+```
+
+Una forma de visualizar de donde proviene cada registro se puede hacer de la siguiente manera:
+```SQL
+select 'Clientes' as Tipo, contacto, ciudad, pais from clientes
+union
+select 'Suplidor' as Tipo, contacto, ciudad, pais from suplidores;
+```
 # Operador like & not like
 
 ### Like
