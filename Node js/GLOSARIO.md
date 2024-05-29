@@ -1,0 +1,2 @@
+# CORS (Cross-Origin-Reques-Sharing)
+*CORS* (Intercambio de recursos de origen cruzado) es un mecanismo de seguridad implementado por los navegadores para restringir las solicitudes HTTP provenientes de fuentes no autorizadas/origen cruzado, lo cual ayuda a proteger las aplicaciones web contra posibles amenazas.
