@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NDG Linux Unhatched/17) Actualizar contrasena de usuario.md",
+                "file": "NDG Linux Unhatched/19) Editor de texto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NDG Linux Unhatched/17) Actualizar contrasena de usuario.md",
+                "file": "NDG Linux Unhatched/19) Editor de texto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NDG Linux Unhatched/17) Actualizar contrasena de usuario.md",
+                "file": "NDG Linux Unhatched/19) Editor de texto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NDG Linux Unhatched/17) Actualizar contrasena de usuario.md"
+                "file": "NDG Linux Unhatched/19) Editor de texto.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ec867770121ad2f4",
   "lastOpenFiles": [
+    "NDG Linux Unhatched/17) Actualizar contrasena de usuario.md",
     "NDG Linux Unhatched/15) Visualización de procesos.md",
     "NDG Linux Unhatched/14) Apagar.md",
     "NDG Linux Unhatched/10) Eliminar archivos.md",
@@ -158,7 +159,6 @@
     "NDG Linux Unhatched/3) Acceso administrativo.md",
     "NDG Linux Unhatched/5) Cambiar los permisos de los archivos.md",
     "NDG Linux Unhatched/2) Listado de archivos.md",
-    "NDG Linux Unhatched/17) Actualizar contrasena de usuario.md",
     "NDG Linux Unhatched/16) Adminstracion de paquetes.md",
     "NDG Linux Unhatched/13) Patrones basicos.md",
     "NDG Linux Unhatched/12) Expresiones regulares.md",
