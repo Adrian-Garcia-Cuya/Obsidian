@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b77653bd7f4c9c36",
+        "id": "4a589beff1d91d63",
         "type": "tabs",
         "children": [
           {
-            "id": "f0fb9289f4994116",
+            "id": "c33e23b4f1e3c04e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,9 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0fb9289f4994116",
+  "active": "c33e23b4f1e3c04e",
   "lastOpenFiles": [
-    "rebase_interactivo.png",
-    "Comandos git.md"
+    "2024-06-09.md",
+    "Comandos git.md",
+    "rebase_interactivo.png"
   ]
 }

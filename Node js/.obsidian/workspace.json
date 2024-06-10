@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3) Webserver/Conceptos de express.md",
+                "file": "3) Express/Conceptos de express.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GLOSARIO.md",
+                "file": "3) Express/Conceptos de express.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a03f879d18f9c7b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3) Express/1) Direccionamiento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de1005afa6b1c775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2) Bases de node/NPM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GLOSARIO.md",
+                "file": "2) Bases de node/NPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GLOSARIO.md",
+                "file": "2) Bases de node/NPM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GLOSARIO.md"
+                "file": "2) Bases de node/NPM.md"
               }
             }
           }
@@ -183,14 +207,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3650596eaaabd87e",
+  "active": "de1005afa6b1c775",
   "lastOpenFiles": [
-    "2) Bases de node/NPM.md",
     "GLOSARIO.md",
-    "3) Webserver/Conceptos de express.md",
+    "3) Express/1) Direccionamiento.md",
+    "3) Express/2) Middleware.md",
+    "3) Express/images/response-methods.png",
+    "3) Express/images",
+    "3) Express/Conceptos de express.md",
+    "2) Bases de node/NPM.md",
     "3) Webserver/Untitled.md",
     "1) Fundamentos de node/1) Preguntas frecuentes.md",
-    "3) Webserver",
+    "3) Express",
     "1) Fundamentos de node/3) Ciclo de vida de un proceso en Node.md",
     "1) Fundamentos de node/2) Blocking vs Non Blocking I - 0.md",
     "2) Bases de node/images/Pasted image 20240517173600.png",
@@ -207,7 +235,6 @@
     "1) Fundamentos de node/images/Pasted image 20240514111613.png",
     "1) Fundamentos de node/images/Pasted image 20240514111601.png",
     "1) Fundamentos de node/images/Pasted image 20240514111542.png",
-    "1) Fundamentos de node/images/Pasted image 20240514111521.png",
     "1) Fundamentos de node/images",
     "1) Fundamentos de node",
     "Welcome.md"
