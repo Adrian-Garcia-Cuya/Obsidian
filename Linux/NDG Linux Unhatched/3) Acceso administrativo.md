@@ -4,7 +4,8 @@ su OPCIONES NOMBRE-DE-USUARIO
 ```
 El comando *su* permite actuar temporalmente como un usuario diferente. Lo hace creando un nuevo shell. De forma predeterminada, si no se especifica una cuenta de usuario, el comando *su* abrira el nuevo shell como usuario *root*, proporcionando privilegios administrativos.
 
-- **shell :** es un interprete de comandos que permite comunicarse con el sistema operativo. Ademas, tiene otras funcionabilidades como: el manejo de variables de entorno, administracion de procesos, personalizacion del sistema, etc. Cuando se cambia de usuario, el sistema cargara el shell del nuevo usuario. Esto permite tener un entorno de trabajo separado y configurado para cada usuario.
+- **shell :** es un programa que maneja la interpretación y ejecucíon de comandos, asi tambien, la ejecucion de programas y otros servicios. 
+  Cuando se cambia de usuario, el sistema cargara el shell del nuevo usuario. Esto permite tener un entorno de trabajo separado y configurado para cada usuario.
 
 ### Nota 
 La opción `-`, `-l`, o `--login` se utiliza para iniciar una nueva sesión de shell como el usuario especificado, y se recomienda usar esta opción para garantizar que el nuevo shell tenga todas las configuraciones adecuadas del nuevo usuario.

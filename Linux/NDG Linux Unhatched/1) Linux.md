@@ -2,6 +2,10 @@
 Es un sistema operativo el cual se ejecuta en sistemas informaticos o hardware.
 ## Que es el CLI de linux? 
 Es la *Interface de linea de comandos*, la cual, esta basada en texto y es donde podemos escribir los comandos.
+
+## Que es prompt?
+Es una señal que muestra el *CLI* para indicar que esta esperando la "entrada" del usuario.
+
 ## Que es un comando?
 Es un grupo de tareas o una tarea que el ordenador debe realizar. Cuando se escribe un comando, el sistema operativo ejecuta un proceso para recibir la entrada (comando) y luego, internamente manipula datos o ejecuta otros procesos para posteriormente dar un resultado como respuesta.
 
