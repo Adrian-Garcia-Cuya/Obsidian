@@ -1,0 +1,1 @@
+Es un sistema de comunicacion que proporciona una capa de comunicacion bidireccional persistente entre el cliente y servirdor.

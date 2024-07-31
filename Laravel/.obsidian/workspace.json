@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuracion de un virtual host.md",
+                "file": "Super tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reques",
+                "query": "mid",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuracion de un virtual host.md",
+                "file": "Super tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuracion de un virtual host.md",
+                "file": "Super tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuracion de un virtual host.md"
+                "file": "Super tips.md"
               }
             }
           },
@@ -204,6 +204,7 @@
   },
   "active": "ea76930a696df126",
   "lastOpenFiles": [
+    "Configuracion de un virtual host.md",
     "Imagenes/httpd-2.png",
     "Imagenes/httpd-1.png",
     "Imagenes/httpd-vhosts.png",
@@ -212,7 +213,6 @@
     "Conceptos.md",
     "Blade.md",
     "Comandos.md",
-    "Configuracion de un virtual host.md",
     "Super tips.md",
     "Factory.md",
     "Seeders.md",
